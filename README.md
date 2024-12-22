@@ -1,2 +1,3 @@
 # EmpireCraft-packs
-EmpireCraft (a Minecraft Server) uses loads of add-ons, texture packs and more that I make and soon they will be realeased to the public.
+I am an add-on maker and I make add-ons for loads of different things including add-ons for a server and texture packs too.
+(🥔 I like potatoes 🥔)
