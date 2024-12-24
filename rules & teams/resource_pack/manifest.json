@@ -1,0 +1,17 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "EmpireCraft Resource Pack",
+        "name": "EmpireCraft Resources",
+        "uuid": "fc2b0b26-23f0-46dd-82f9-4f81a12bb5ae",
+        "version": [1, 0, 0]
+    },
+    "modules": [
+        {
+            "description": "Resource Pack",
+            "type": "resources",
+            "uuid": "b38bb8d1-c2f6-4d97-a557-4e9e03246b4f",
+            "version": [1, 0, 0]
+        }
+    ]
+}
